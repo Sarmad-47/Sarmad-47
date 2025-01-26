@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Next.js and Typescript**
 
-- 👯 I’m looking to collaborate on **Web and Mobile development projects.**
+- 👯 I’m looking to collaborate on **Web development projects.**
 
 - 🤝 I’m looking for help with **deepening my understanding of cloud computing and DevOps practices.**
 
-- 💬 Ask me about **MERN, React Native**
+- 💬 Ask me about **MERN, Next.js, TypeScript**
 
 - 📫 How to reach me **sarmad.ahmad74@gmail.com**
 
