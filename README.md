@@ -6,11 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### About Me
-- 🔭 I'm currently working on scalable web applications using modern JavaScript frameworks
-- 🌱 Passionate about creating efficient, user-friendly digital experiences
-- 💬 Ask me about React, Node.js, or database optimization
+- 🌱 Passionate about building scalable, efficient, and user-friendly **web applications.**
 - 📫 How to reach me: **sarmad.ahmad74@gmail.com**
-- ⚡ Fun fact: I'm an avid gamer who enjoys exploring how game mechanics can inspire UI/UX design
+- ⚡ Fun fact **I'm a tech enthusiast who loves video gaming and exploring new advancements in technology.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
