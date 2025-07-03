@@ -52,8 +52,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" title="Webpack"/>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarmadahmad&show_icons=true&locale=en&theme=radical" alt="sarmadahmad" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarmadahmad&theme=radical" alt="sarmadahmad" />
-</p>
 
