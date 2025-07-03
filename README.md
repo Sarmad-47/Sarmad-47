@@ -5,13 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 I’m currently learning **Next.js and Typescript**
 
 - 👯 I’m looking to collaborate on **Web development projects.**
-
-- 🤝 I’m looking for help with **deepening my understanding of cloud computing and DevOps practices.**
-
-- 💬 Ask me about **MERN, Next.js, TypeScript**
 
 - 📫 How to reach me **sarmad.ahmad74@gmail.com**
 
