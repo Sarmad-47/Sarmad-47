@@ -8,7 +8,7 @@
 ### About Me
 - 🌱 Passionate about building scalable, efficient, and user-friendly **web applications.**
 - 📫 How to reach me: **sarmad.ahmad74@gmail.com**
-- ⚡ Fun fact **I'm a tech enthusiast who loves video gaming and exploring new advancements in technology.**
+- ⚡Fun fact **I'm a tech enthusiast who loves video gaming and exploring new advancements in technology.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
