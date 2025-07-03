@@ -6,9 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### About Me
-- 🌱 Passionate about building scalable, efficient, and user-friendly **web applications.**
-- 📫 How to reach me: **sarmad.ahmad74@gmail.com**
-- ⚡Fun fact **I'm a tech enthusiast who loves video gaming and exploring new advancements in technology.**
+- 🌱 Passionate about building scalable, efficient, and user-friendly **web applications**
+- 📫 Reach me at: **sarmad.ahmad74@gmail.com**
+- ⚡Fun fact **I'm a tech enthusiast who loves video gaming and exploring new advancements in technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
