@@ -44,7 +44,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" title="Redis"/>
 </p>
 
-<h4>DevOps & Tools</h4>
+<h4>Tools</h4>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" title="Postman"/>
